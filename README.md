@@ -1,16 +1,13 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 🖤 
 
-<!--
-**munarodani/munarodani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Daniella Munaro
 
-Here are some ideas to get you started:
+- Estou estudando na Alura
+- Estou me desevolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha oergaização e compartilhamento dos meus projetos desenvolvidos
+ 
+### Você entar em contato comigo 📫
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+00001117105891sp@al.educacao.sp.gov.br
+
+![_]([https://media1.tenor.com/m/mV5PnvV-jd0AAAAd/mc-kevin-salto.gif](https://media1.tenor.com/m/8aR2e6H7yQgAAAAd/asas.gif))
